@@ -1,1 +1,1 @@
-## Product Store For Electronic Accessories | Postgresql,Express,React,NodeJS
+## Product Store For Electronic Accessories | PostgreSQL,Express,React,Node.js
