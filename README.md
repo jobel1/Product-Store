@@ -4,3 +4,5 @@
 - Rate Limiting & Bot Detection
 - Global state management with Zustand
 -Error handling both on the server and client
+
+This site was built using [GitHub Pages](https://pages.github.com/)
