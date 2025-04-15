@@ -5,4 +5,4 @@
 - Global state management with Zustand
 -Error handling both on the server and client
 
-To see demo [click here]([https://pages.github.com/](https://product-store-9uvx.onrender.com/))
+  To see demo [click here](https://product-store-9uvx.onrender.com/)
